@@ -6,7 +6,7 @@
 
 [`unifi4`, `stable`, `latest` (*unifi4/Dockerfile*)](https://github.com/jacobalberty/unifi-docker/blob/master/unifi4/Dockerfile)
 
-[`unifi5`, `stable`, `latest` (*unifi4/Dockerfile*)](https://github.com/jacobalberty/unifi-docker/blob/master/unifi5/Dockerfile)
+[`unifi5`, `stable`, `latest` (*unifi5/Dockerfile*)](https://github.com/jacobalberty/unifi-docker/blob/master/unifi5/Dockerfile)
 
 ## Description 
 This is a containerized version of the Unifi Access Point controller.
